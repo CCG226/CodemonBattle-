@@ -1,0 +1,11 @@
+﻿  Battle.cpp
+C:\Users\Connor\source\repos\CodemonBattle!\CodemonBattle!\Battle.cpp(193,127): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Connor\source\repos\CodemonBattle!\CodemonBattle!\Battle.cpp(193,85): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\Connor\source\repos\CodemonBattle!\CodemonBattle!\Battle.cpp(198,128): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Connor\source\repos\CodemonBattle!\CodemonBattle!\Battle.cpp(198,86): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\Connor\source\repos\CodemonBattle!\CodemonBattle!\Battle.cpp(212,129): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Connor\source\repos\CodemonBattle!\CodemonBattle!\Battle.cpp(212,87): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\Connor\source\repos\CodemonBattle!\CodemonBattle!\Battle.cpp(215,128): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Connor\source\repos\CodemonBattle!\CodemonBattle!\Battle.cpp(215,86): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\Connor\source\repos\CodemonBattle!\CodemonBattle!\Battle.cpp(279): warning C4715: 'operator*': not all control paths return a value
+  CodemonBattle!.vcxproj -> C:\Users\Connor\source\repos\CodemonBattle!\Debug\CodemonBattle!.exe
